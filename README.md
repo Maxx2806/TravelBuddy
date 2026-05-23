@@ -21,11 +21,14 @@ Multi-screen React Native app dengan React Navigation.
 3. Scan QR code di Expo Go
 
 ## Screenshots
+Home
 ![Home screen](home.jpeg)
 
+Detail
 ![Detail screen](detail.jpeg)
 
-![Favorites screen](favorties.jpeg)
+Favorites
+![Favorites screen](favorites.jpeg)
 
 ## Author
 [Maxwell Osse Tarigan]
