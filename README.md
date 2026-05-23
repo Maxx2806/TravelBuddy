@@ -22,12 +22,15 @@ Multi-screen React Native app dengan React Navigation.
 
 ## Screenshots
 Home
+
 ![Home screen](home.jpeg)
 
 Detail
+
 ![Detail screen](detail.jpeg)
 
 Favorites
+
 ![Favorites screen](favorites.jpeg)
 
 ## Author
